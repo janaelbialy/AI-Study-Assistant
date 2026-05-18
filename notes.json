@@ -1,0 +1,161 @@
+{
+  "notes": {
+    "Note 2": "sccccccccccccccccc",
+    "Note 3": "vsfgdyghjgvfhjghjvgjhghjgvfhjfd",
+    "Note 5": "FRRRRRRR",
+    "Note 6": "ffsfsffssrffs"
+  },
+  "history": [
+    {
+      "type": "Note Added",
+      "snippet": "Note: Note 3...",
+      "timestamp": "Sat Dec 20 15:20:30 2025",
+      "full_content": "vsfgdyghjgvfhjghjvgjhghjgvfhjfd"
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The water cycle is a continuous, solar-powered loop that cleans and redistributes Earth's water thro...",
+      "timestamp": "Sat Dec 20 17:37:06 2025",
+      "full_content": "The water cycle is a continuous, solar-powered loop that cleans and redistributes Earth's water through the stages of evaporation (and transpiration), condensation (forming clouds), and precipitation."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The Plot Style menu allows users to select print options to manage color and ink usage. Options incl...",
+      "timestamp": "Sat Dec 20 17:38:33 2025",
+      "full_content": "The Plot Style menu allows users to select print options to manage color and ink usage. Options include \"None\" for full color, \"Greyscale\" for black and white, or \"Screening options\" to save ink (resulting in a fainter drawing)."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The \"Plot style table\" menu offers options to control print output: select \"None\" for full color, a ...",
+      "timestamp": "Sat Dec 20 17:39:40 2025",
+      "full_content": "The \"Plot style table\" menu offers options to control print output: select \"None\" for full color, a \"Screening option\" to save ink (resulting in a fainter image), or \"Greyscale\" for a black and white drawing."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The solar-powered water cycle continuously cleans and redistributes Earth's water through the stages...",
+      "timestamp": "Sat Dec 20 17:53:29 2025",
+      "full_content": "The solar-powered water cycle continuously cleans and redistributes Earth's water through the stages of evaporation, condensation, and precipitation."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The text contrasts the ambitious, fast-paced exterior of the modern city with the complex, hidden in...",
+      "timestamp": "Sun Dec 21 10:49:21 2025",
+      "full_content": "The text contrasts the ambitious, fast-paced exterior of the modern city with the complex, hidden inner lives of its inhabitants. Despite following similar daily routines and facing pressure toward constant productivity, individuals carry unique worries and dreams. The text argues that true progress requires occasional reflection and awareness, emphasizing that lasting strength and meaningful change come not solely from relentless forward motion, but from intentional effort and seeking balance."
+    },
+    {
+      "type": "Quiz Generation",
+      "snippet": "**1. What is the \"quiet contrast\" that the passage states exists within the heart of the city?** A) ...",
+      "timestamp": "Sun Dec 21 10:51:28 2025",
+      "full_content": "**1. What is the \"quiet contrast\" that the passage states exists within the heart of the city?**\nA) The difference between the city\u2019s ancient architecture and its modern skyscrapers.\nB) The difference between the busy exterior movement of the city and the private inner worlds of its inhabitants.\nC) The sound of traffic during the day versus the silence of the night.\nD) The gap between the wealthy areas and the less prosperous neighborhoods.\n\n**2. Which three qualities are primarily symbolized by the city's high buildings and glass surfaces, according to the text?**\nA) History, stability, and enduring tradition.\nB) Awareness, patience, and intentional effort.\nC) Ambition, progress, and constant motion.\nD) Reflection, emptiness, and personal sacrifice.\n\n**3. What critical element does the city's focus on speed, productivity, and visible achievement often leave little space for?**\nA) Opportunities for education and technology.\nB) Commuting through crowded roads.\nC) Reflection and understanding.\nD) Following similar daily routines.\n\n**4. The passage suggests that progress without understanding can result in what feeling?**\nA) Increased ambition.\nB) Feeling empty.\nC) Greater balance.\nD) Heightened productivity.\n\n**5. According to the final paragraph, where does \"real strength\" lie?**\nA) Only in constant movement forward and accumulating visible achievements.\nB) In awareness, patience, and intentional effort.\nC) In ignoring small decisions and focusing only on large goals.\nD) In following successful routines established by others.\n\n***\n\n**Answers:**\n1. B\n2. C\n3. C\n4. B\n5. B"
+    },
+    {
+      "type": "Word Explanation",
+      "snippet": "Word: Hello",
+      "timestamp": "Sun Dec 21 10:52:58 2025",
+      "full_content": "Here is the definition of \"Hello\" and an example sentence:\n\n## Define 'Hello'\n\n**'Hello'** is a common verbal or written greeting in the English language, used to initiate a conversation, acknowledge someone's arrival, or answer a telephone. It is an expression of salutation.\n\n## Example Sentence\n\n\"**Hello**, it\u2019s nice to finally meet you.\""
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What contrast existed between the busy exterior of the city and the people within it? -> A: The b...",
+      "timestamp": "Sun Dec 21 10:54:13 2025",
+      "full_content": "Q: What contrast existed between the busy exterior of the city and the people within it?\n-> A: The busy exterior of motion and sound contrasted with the private worlds people carried within their minds (filled with plans, worries, dreams, and unanswered questions).\n\nQ: What aspects did the high-rise buildings, reflecting light, symbolize in the city?\n-> A: Ambition, progress, and constant motion.\n\nQ: Despite sharing similar routines (waking up, commuting, taking on roles), what determined how each individual experienced their day?\n-> A: Personal goals and inner motivations.\n\nQ: According to the text, how was success often measured in the rapid pace of the city?\n-> A: Speed, productivity, and visible achievement.\n\nQ: What three factors played central roles in shaping daily city life while simultaneously creating pressure for constant improvement?\n-> A: Education, work, and technology.\n\nQ: What realization often occurred during brief moments of reflection, such as a silent elevator ride?\n-> A: That progress without understanding can feel empty.\n\nQ: How did small decisions, such as resting when needed or learning a new skill, affect an individual's life?\n-> A: They slowly accumulated over time, reshaping habits, perspectives, and futures.\n\nQ: Where did the individuals in the city eventually learn that real strength lies, besides forward movement?\n-> A: In awareness, patience, and intentional effort."
+    },
+    {
+      "type": "Quiz Generation",
+      "snippet": "The following questions are based solely on the sequence: **ghhghghhg**  1. What is the total length...",
+      "timestamp": "Mon Dec 22 21:34:18 2025",
+      "full_content": "The following questions are based solely on the sequence: **ghhghghhg**\n\n1. What is the total length of the sequence ghhghghhg?\n    A. 8\n    B. 9\n    C. 10\n    D. 18\n\n2. How many times does the character 'g' appear in the sequence?\n    A. 3\n    B. 4\n    C. 5\n    D. 6\n\n3. Which character occupies the 5th position of the sequence (counting from the left, starting at 1)?\n    A. g\n    B. h\n    C. The sequence ends before the 5th position.\n    D. None of the above\n\n4. What is the total frequency of the character 'h' in the given sequence?\n    A. 4\n    B. 5\n    C. 6\n    D. 7\n\n5. How many non-overlapping instances of the immediate repeating pair 'hh' can be found in the sequence ghhghghhg?\n    A. 1\n    B. 2\n    C. 3\n    D. 4\n\n6. Which set of positions (1-indexed) are occupied by the character 'g'?\n    A. {1, 3, 5, 7, 9}\n    B. {2, 3, 5, 7, 8}\n    C. {1, 4, 6, 9}\n    D. {2, 4, 6, 8}\n\n---\n\n## Answers\n\n1. **B**\n2. **B**\n3. **B**\n4. **B**\n5. **B**\n6. **C**"
+    },
+    {
+      "type": "Quiz Generation",
+      "snippet": "1. Which common bird name starts with the letter 'J' and is known for its vibrant plumage, especiall...",
+      "timestamp": "Mon Dec 22 21:35:05 2025",
+      "full_content": "1. Which common bird name starts with the letter 'J' and is known for its vibrant plumage, especially the characteristic blue and white colors found in North America?\n    A. Mockingbird\n    B. Blue Jay\n    C. Cardinal\n    D. Goldfinch\n\n2. What is the standard unit of electrical energy or work in the International System of Units (SI), named after the English physicist James Prescott Joule?\n    A. Ampere\n    B. Watt\n    C. Volt\n    D. Joule\n\n3. Which capital city, famous for its music genre of Reggae and home to the Bob Marley Museum, is the largest city in the island nation of Jamaica?\n    A. Montego Bay\n    B. Nassau\n    C. Kingston\n    D. Bridgetown\n\n4. In Greek mythology, who was the leader of the Argonauts who sailed aboard the ship *Argo* in quest of the Golden Fleece?\n    A. Achilles\n    B. Odysseus\n    C. Jason\n    D. Heracles\n\n5. Which type of small, medium-hot chili pepper, often used in salsas and nachos, gets its name from Xalapa (or Jalapa), the capital city of Veracruz, Mexico?\n    A. Poblano\n    B. Scotch Bonnet\n    C. Jalape\u00f1o\n    D. Serrano\n\n6. Born around 1412, this French peasant girl and military leader was instrumental in the lifting of the Siege of Orl\u00e9ans and later canonized as a Roman Catholic saint. Who is she?\n    A. Queen Isabella\n    B. Marie Antoinette\n    C. Joan of Arc\n    D. Catherine de\u2019 Medici\n\n***\n\n## Answers:\n1.  **B. Blue Jay**\n2.  **D. Joule**\n3.  **C. Kingston**\n4.  **C. Jason**\n5.  **C. Jalape\u00f1o**\n6.  **C. Joan of Arc**"
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The input \"jhj\" is not recognizable as text or a meaningful statement, so it cannot be summarized....",
+      "timestamp": "Mon Dec 22 21:37:37 2025",
+      "full_content": "The input \"jhj\" is not recognizable as text or a meaningful statement, so it cannot be summarized."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The provided text is a string of repeating characters and has no discernible meaning or content to s...",
+      "timestamp": "Mon Dec 22 21:38:36 2025",
+      "full_content": "The provided text is a string of repeating characters and has no discernible meaning or content to summarize."
+    },
+    {
+      "type": "Summarization",
+      "snippet": "The text appears to be **nonsense or uninterpretable input** (\"nbbbbbnb\").  A concise and clear summ...",
+      "timestamp": "Mon Dec 22 22:58:11 2025",
+      "full_content": "The text appears to be **nonsense or uninterpretable input** (\"nbbbbbnb\").\n\nA concise and clear summary is **not possible** because the text contains **no discernible meaning or content**."
+    },
+    {
+      "type": "Quiz Generation",
+      "snippet": "**1. In the string `dggfddxd`, which character appears the most frequently?** (A) g (B) d (C) f (D) ...",
+      "timestamp": "Mon Dec 22 23:01:42 2025",
+      "full_content": "**1. In the string `dggfddxd`, which character appears the most frequently?**\n(A) g\n(B) d\n(C) f\n(D) x\n\n**2. What is the total length of the string `dggfddxd` (the number of characters it contains)?**\n(A) 6\n(B) 7\n(C) 8\n(D) 9\n\n**3. If the characters in the string `dggfddxd` were sorted alphabetically (from A to Z), what would the resulting sequence be?**\n(A) ddddgfxg\n(B) dfddggxx\n(C) ddddfggx\n(D) fddggxxd\n\n**4. How many unique, distinct characters (letters) are present in the string `dggfddxd`?**\n(A) 3\n(B) 4\n(C) 5\n(D) 8\n\n---\n### Answers:\n1. (B)\n2. (C)\n3. (C)\n4. (B)"
+    },
+    {
+      "type": "Word Explanation",
+      "snippet": "Word: Joice",
+      "timestamp": "Tue Dec 23 09:47:00 2025",
+      "full_content": "**'Joice'** is a given name, a relatively uncommon spelling variation of the much more common name **Joyce**.\n\n### Definition\n**Joice** (pronounced like *Joyce*) is a feminine given name of Middle English origin, derived from the Old French name *Josse*, which was originally a masculine name of Breton origin (*Yuzhael*, meaning \"lord\" or \"chief\" and \"generous/bountiful\").\n\nWhile the standard modern spelling is 'Joyce', 'Joice' is recognized primarily as an alternate spelling, often reflecting a traditional, regional, or historical orthography.\n\n### Example Sentence\n> My grandmother preferred the traditional spelling of her name, so she always introduced herself as **Joice**, rather than Joyce."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python described as? -> A: A high-level, interpreted program...",
+      "timestamp": "Tue Dec 23 10:33:55 2025",
+      "full_content": "Q: What type of programming language is Python described as? -> A: A high-level, interpreted programming language.\n\nQ: Who created Python and when was it released? -> A: Guido van Rossum, released in 1991.\n\nQ: Name three fields in which Python is widely used. -> A: Web development, data science, artificial intelligence (AI), automation, and software development.\n\nQ: What key feature makes Python an excellent choice for beginners? -> A: Its simple and readable syntax.\n\nQ: How does Python define code blocks? -> A: Python uses indentation to define code blocks.\n\nQ: What core strength allows programmers to write programs easier to read, write, and maintain in Python? -> A: It allows programmers to write code using fewer lines compared to many other languages.\n\nQ: Name two popular external libraries mentioned that support specialized tasks in Python. -> A: NumPy, Pandas, TensorFlow, and Tkinter.\n\nQ: What advantage does Python offer regarding operating systems? -> A: It works on different operating systems (Windows, macOS, and Linux) without needing major changes to the code."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language...",
+      "timestamp": "Tue Dec 23 10:34:31 2025",
+      "full_content": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language.\n\nQ: Who created Python and in what year was it released? -> A: Guido van Rossum, released in 1991.\n\nQ: Name three fields where Python is widely used. -> A: Web development, data science, artificial intelligence (AI), automation, and software development.\n\nQ: What key feature of Python makes it an excellent choice for beginners? -> A: Its simple and readable syntax.\n\nQ: How does Python define code blocks? -> A: It uses indentation.\n\nQ: What is one of Python\u2019s main strengths regarding code efficiency? -> A: It allows programmers to write code using fewer lines compared to many other languages.\n\nQ: Name two popular external libraries that support tasks like data analysis and machine learning in Python. -> A: NumPy, Pandas, TensorFlow, and Tkinter.\n\nQ: What advantage does Python offer regarding different operating systems? -> A: It works on different operating systems (Windows, macOS, Linux) without needing major changes to the code."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language...",
+      "timestamp": "Tue Dec 23 10:34:33 2025",
+      "full_content": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language.\n\nQ: Who created Python and in what year was it released? -> A: Guido van Rossum, released in 1991.\n\nQ: Name three fields where Python is widely used. -> A: Web development, data science, and artificial intelligence (AI).\n\nQ: What is the defining characteristic of Python's syntax that makes it beginner-friendly? -> A: Its simple and readable syntax.\n\nQ: What does Python use to define code blocks, which encourages clean code? -> A: Indentation.\n\nQ: What is one of Python\u2019s main strengths regarding code efficiency? -> A: It allows programmers to write code using fewer lines compared to many other languages.\n\nQ: Name two popular external libraries used with Python. -> A: NumPy, Pandas, TensorFlow, or Tkinter.\n\nQ: What advantage does Python offer regarding different operating systems? -> A: It works on different operating systems (Windows, macOS, and Linux) without needing major changes to the code (cross-platform compatibility)."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language...",
+      "timestamp": "Tue Dec 23 10:34:33 2025",
+      "full_content": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language.\nQ: Who created the Python programming language? -> A: Guido van Rossum.\nQ: In what year was Python released? -> A: 1991.\nQ: What core characteristic makes Python an excellent choice for beginners and professionals? -> A: Its simple and readable syntax.\nQ: How does Python define code blocks, which helps developers write clean and well-structured code? -> A: It uses indentation.\nQ: Name three fields in which Python is widely used. -> A: Web development, data science, and artificial intelligence (or automation/software development).\nQ: Name two popular external libraries associated with Python mentioned in the text. -> A: NumPy and Pandas (or TensorFlow and Tkinter).\nQ: What is a major advantage of Python regarding operating system compatibility? -> A: It works on different operating systems such as Windows, macOS, and Linux without needing major changes to the code.\nQ: What benefit does Python offer regarding the length of code? -> A: It allows programmers to write code using fewer lines compared to many other languages."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language...",
+      "timestamp": "Tue Dec 23 10:34:33 2025",
+      "full_content": "Q: What type of programming language is Python? -> A: A high-level, interpreted programming language.\n\nQ: Who created Python and in what year was it first released? -> A: Guido van Rossum, released in 1991.\n\nQ: What key characteristic of Python's syntax makes it attractive for beginners? -> A: Its simple and readable syntax.\n\nQ: Name three fields where Python is widely used. -> A: Web development, data science, artificial intelligence (AI), automation, and software development.\n\nQ: What is a main strength of Python regarding code volume compared to many other languages? -> A: It allows programmers to write code using fewer lines.\n\nQ: How does Python define code blocks? -> A: Python uses indentation.\n\nQ: Name two popular external libraries that support tasks like data analysis or machine learning in Python. -> A: NumPy, Pandas, TensorFlow, or Tkinter.\n\nQ: What advantage does Python offer regarding different operating systems (such as Windows, macOS, and Linux)? -> A: It works on different operating systems without needing major changes to the code (cross-platform compatibility)."
+    },
+    {
+      "type": "Flashcard Generation",
+      "snippet": "Q: What type of programming language is Python described as? -> A: A high-level, interpreted program...",
+      "timestamp": "Tue Dec 23 10:34:34 2025",
+      "full_content": "Q: What type of programming language is Python described as? -> A: A high-level, interpreted programming language.\n\nQ: Who created Python and when was it released? -> A: Guido van Rossum, released in 1991.\n\nQ: Name three fields where Python is widely used. -> A: Web development, data science, artificial intelligence, automation, and software development.\n\nQ: What key characteristic makes Python a good choice for beginners? -> A: Its simple and readable syntax.\n\nQ: What structural element does Python use to define code blocks? -> A: Indentation.\n\nQ: What is the main advantage of Python regarding the amount of code needed? -> A: It allows programmers to write code using fewer lines compared to many other languages.\n\nQ: Name two popular external libraries mentioned that make Python powerful. -> A: NumPy, Pandas, TensorFlow, and Tkinter.\n\nQ: What advantage does Python offer regarding operating system compatibility? -> A: It works on different operating systems (such as Windows, macOS, and Linux) without needing major code changes."
+    },
+    {
+      "type": "Note Added",
+      "snippet": "Note: Note 6...",
+      "timestamp": "Tue Dec 23 11:15:38 2025",
+      "full_content": "ffsfsffssrffs"
+    },
+    {
+      "type": "Quiz Generation",
+      "snippet": "1. Python is described as being created by whom, and in what year was it released?     A. Guido van ...",
+      "timestamp": "Tue Dec 23 11:16:25 2025",
+      "full_content": "1. Python is described as being created by whom, and in what year was it released?\n    A. Guido van Rossum, 1991\n    B. Dennis Ritchie, 1991\n    C. Tim Berners-Lee, 1989\n    D. Guido van Rossum, 2000\n\n2. One of Python's main strengths is that it allows programmers to write code using fewer lines compared to many other languages. How does Python define its code blocks?\n    A. By using semicolons at the end of every line.\n    B. By surrounding the code block with curly braces ({}).\n    C. By utilizing indentation.\n    D. By marking the beginning and end with specialized keywords.\n\n3. Which two fundamental classifications are used in the text to describe the Python programming language in its introductory statement?\n    A. Low-level and Compiled\n    B. Static and Functional\n    C. High-level and Interpreted\n    D. Object-oriented and Procedural\n\n4. Python's versatility allows it to be widely used in many fields. Which combination of fields is explicitly listed in the text as applications for Python?\n    A. Embedded systems, kernel development, and video game console programming\n    B. Web development, data science, and artificial intelligence\n    C. Financial modeling, mobile app development, and operating system design\n    D. Cryptography, telecommunications, and robotics\n\n5. Which of the following popular external libraries is mentioned as supporting tasks like machine learning in Python?\n    A. Tkinter\n    B. Requests\n    C. Django\n    D. TensorFlow\n\n***\n\n**Answers:**\n1. A\n2. C\n3. C\n4. B\n5. D"
+    },
+    {
+      "type": "Word Explanation",
+      "snippet": "Word: Helllo",
+      "timestamp": "Tue Dec 23 11:17:31 2025",
+      "full_content": "The term \"Helllo\" is **not a standard English word** and appears to be a common **typographical error** or intentional **misspelling** of the widely used greeting: **\"Hello.\"**\n\nTherefore, its definition and usage must be understood in the context of it being a variation of \"Hello.\"\n\n---\n\n## Defining 'Helllo'\n\n**Contextual Definition:** A common misspelling of the interjection **\"Hello,\"** which is used to express a greeting, answer a telephone, or draw attention.\n\n**Pronunciation:** (H\u0259-\u02c8l\u014d) \u2014 Identical to \"Hello.\"\n\n**Part of Speech:** Interjection.\n\n---\n\n## Example Sentence\n\nWhile \"Helllo\" is usually avoided in formal writing, it might appear in casual, online communication, or deliberately stylized text:\n\n> \"I saw my old friend walking down the street, so I shouted, **'Helllo!** How have you been?'\""
+    }
+  ],
+  "counter": 7
+}
